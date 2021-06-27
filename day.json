@@ -1,4 +1,10 @@
 {
+    "0":{
+        "day":"Sunday: The Sun's Day",
+        "info":"Sunday is the seventh day of the week according to the international standard ISO 8601. However, many countries, including the US, Canada, and Japan, count Sunday as the first day of the week. The English word Sunday is derived from Old English 'Sunnandæg' – Day of the Sun.",
+        "source":"https://www.timeanddate.com/calendar/days/sunday.html",
+        "img":"https://images.unsplash.com/photo-1604949210966-9440c324823f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHN1biUyMGJsdWV8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
     "1":{
         "day":"Monday: The Moon’s Day",
         "info":"Monday is the first day of the week according to the international standard ISO 8601, but in the US, Canada, and Japan, it's counted as the second day of the week. The English word Monday is derived from Old English 'mōnandæg or mōndæg' - The Moon'S Day",
@@ -34,11 +40,5 @@
         "info":"Saturday is the sixth day of the week according to the international standard ISO 8601 and is considered the first day of the weekend in most western countries. Named after the Roman god and planet Saturn, Saturday is the only day of the week that retained its Roman origin in English. Saturn is the Roman and Italic god of agriculture and the consort of Ops.",
         "source":"https://www.timeanddate.com/calendar/days/saturday.html",
         "img":"https://c.tadst.com/gfx/600x337/temple-saturn-rome.jpg?1"
-    },
-    "7":{
-        "day":"Sunday: The Sun's Day",
-        "info":"Sunday is the seventh day of the week according to the international standard ISO 8601. However, many countries, including the US, Canada, and Japan, count Sunday as the first day of the week. The English word Sunday is derived from Old English 'Sunnandæg' – Day of the Sun.",
-        "source":"https://www.timeanddate.com/calendar/days/sunday.html",
-        "img":"https://images.unsplash.com/photo-1604949210966-9440c324823f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHN1biUyMGJsdWV8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     }
 }
