@@ -1,14 +1,5 @@
 [
 {
-    "type": "header",
-    "version": "5.2.0",
-    "comment": "Export to JSON plugin for PHPMyAdmin"
-},
-{
-    "type": "database",
-    "name": "chiragchrg"
-},
-{
     "type": "table",
     "name": "apr",
     "database": "chiragchrg",
